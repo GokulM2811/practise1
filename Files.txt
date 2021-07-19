@@ -1,2 +1,3 @@
-Edit 1 in github
-Edit 2 in local system
+Edit 1 in github fetch and merge check
+Edit 2 in local system add, commit and push check
+Edit 3 in github for pull check
